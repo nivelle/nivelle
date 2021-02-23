@@ -6,5 +6,5 @@
 -->
 
 - 🔭 I’m currently working on java and vue
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning go and big data
 
